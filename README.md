@@ -1,5 +1,4 @@
-CUDA Path Tracer
-================
+# CUDA Path Tracer
 
 **University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 3**
 
@@ -7,9 +6,7 @@ CUDA Path Tracer
 * Tested on: ( Windows 10, i5-5200U @ 2.20GHz 8GB, GTX 960M
 window 10 can be really buggy in this project..crushed my computer again and again.
 
-========================
-
-## README
+## Description
 
 1.refraction & perfect reflection &diffuse color &direct light from ceiling light
 |![](img/2.png)
