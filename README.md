@@ -1,6 +1,6 @@
 # CUDA Path Tracer
 
-**University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 3**
+**University of Pennsylvania, [CIS 565 GPU Programming and Architecture](https://cis565-fall-2022.github.io/), Project 3**
 
 * Zhimin Zhao
 * Tested on: ( Windows 10, i5-5200U @ 2.20GHz 8GB, GTX 960M
